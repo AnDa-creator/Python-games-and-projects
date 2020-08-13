@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db47c63c-67af-4387-8ad3-3c1f564259a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGFEJtYibSCocJknrQoyjBUveK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunManager" selected="Python.spam">
+    <configuration name="filesandDirectories" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScopeAndNamescape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filesandDirectories.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScopeAndNamescape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scope.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScopeAndNamescape" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spam" />
+        <item itemvalue="Python.filesandDirectories" />
+        <item itemvalue="Python.scope" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db47c63c-67af-4387-8ad3-3c1f564259a7" name="Default Changelist" comment="" />
+      <created>1586353910038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586353910038</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="724" height="213" key="GridCell.Tab.0.bottom" timestamp="1586361435624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586361435624" />
+    <state width="724" height="213" key="GridCell.Tab.0.center" timestamp="1586361435624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586361435624" />
+    <state width="724" height="213" key="GridCell.Tab.0.left" timestamp="1586361435624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586361435624" />
+    <state width="724" height="213" key="GridCell.Tab.0.right" timestamp="1586361435624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586361435624" />
+    <state x="860" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1586408164712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="860" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586408164712" />
+    <state x="418" y="120" key="new project wizard" timestamp="1586411226100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="120" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586411226100" />
+    <state x="809" y="189" key="run.anything.popup" timestamp="1586355193733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="809" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586355193733" />
+  </component>
+</project>
